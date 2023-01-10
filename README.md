@@ -4,6 +4,8 @@ Projeto de Plataforma Web e Aplicativo de Vistorias
 # Criação do WebSite
 https://www.t4vistorias.com.br/
 
+![Tela 1](https://github.com/JohnAndersonDuarte/T4vistoriasProject/blob/main/images/Tela6.png)
+
 # Criação do Aplicativo
 Aplicativo de gerenciamento de vistorias de contrução e entrega de imóveis.
 - Cadastro de empreendimentos
